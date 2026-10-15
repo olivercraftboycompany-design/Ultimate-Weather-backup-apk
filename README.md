@@ -1,2 +1,2 @@
-# Ultimate-Weather-backup-apk
-Byte-for-byte backup of Ultimate-Weather @ 080a43d before the Android app build (Oct 15 2026)
+# Ultimate-Weather
+Ultimate weather dashboard: NEXUS UI + every feature from Marina, SkyCastPro and Skyglass
